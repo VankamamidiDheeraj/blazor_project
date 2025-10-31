@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EmployeeWebApi\\EmployeeWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "UserWebApi\\UserWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "TechnologyWebApi\\TechnologyWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "TrainerWebApi\\TrainerWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "TrainingWebApi\\TrainingWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "FinalBlazorApp\\FinalBlazorApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

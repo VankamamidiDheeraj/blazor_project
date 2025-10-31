@@ -1,0 +1,94 @@
+﻿@inherits LayoutComponentBase
+@using FinalBlazorApp.Authentication
+@inject CustomAuthStateProvider customAuthStateProvider
+@inject NavigationManager NavManager
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+    <main>
+        <div class="top-row px-4">
+            <AuthorizeView>
+                <Authorizing>
+                    <span class="text-white">Checking authentication state...</span>
+                </Authorizing>
+                <NotAuthorized>
+                    <button class="btn-register" @onclick="RegisterAsync">Register</button>
+                    &nbsp;&nbsp;
+                    <button class="btn-login" @onclick="LoginAsync">Login</button>
+                </NotAuthorized>
+                <Authorized>
+                    <h5>Welcome, @context.User.Identity.Name</h5>
+                    &nbsp;&nbsp;
+                    <button class="btn-logout" @onclick="LogoutAsync">Logout</button>
+                </Authorized>
+            </AuthorizeView>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+<style>
+    .top-row {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 10px;
+        margin-top: 10px;
+    }
+
+        .top-row button {
+            padding: 8px 16px;
+            font-size: 1rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+    .btn-register {
+        background-color: #198754;
+        color: white;
+    }
+
+    .btn-login {
+        background-color: #0d6efd;
+        color: white;
+    }
+
+    .btn-logout {
+        background-color: #dc3545;
+        color: white;
+    }
+
+    .top-row button:hover {
+        opacity: 0.9;
+    }
+
+    .top-row h5 {
+        margin-right: 10px;
+        color: #333;
+    }
+</style>
+
+@code {
+    private async Task LogoutAsync()
+    {
+        await customAuthStateProvider.LogoutAsync();
+    }
+
+    private async Task LoginAsync()
+    {
+        NavManager.NavigateTo("/login");
+    }
+
+    private async Task RegisterAsync()
+    {
+        NavManager.NavigateTo("/register");
+    }
+}

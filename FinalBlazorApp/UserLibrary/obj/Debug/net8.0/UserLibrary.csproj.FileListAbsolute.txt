@@ -1,0 +1,28 @@
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.deps.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.runtimeconfig.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.pdb
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.csproj.AssemblyReference.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.AssemblyInfoInputs.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.AssemblyInfo.cs
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.csproj.CoreCompileInputs.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\refint\UserLibrary.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.pdb
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.genruntimeconfig.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserLibrary\obj\Debug\net8.0\ref\UserLibrary.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.deps.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.runtimeconfig.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\bin\Debug\net8.0\UserLibrary.pdb
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.csproj.AssemblyReference.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.AssemblyInfoInputs.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.AssemblyInfo.cs
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\refint\UserLibrary.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.pdb
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\UserLibrary.genruntimeconfig.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserLibrary\obj\Debug\net8.0\ref\UserLibrary.dll

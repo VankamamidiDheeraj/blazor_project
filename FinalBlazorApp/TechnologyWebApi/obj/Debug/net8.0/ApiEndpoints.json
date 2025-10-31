@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "TechnologyWebApi.Controllers.TechnologyController",
+    "Method": "Get",
+    "RelativePath": "api/Technology",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechnologyWebApi.Controllers.TechnologyController",
+    "Method": "Get",
+    "RelativePath": "api/Technology/{tid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechnologyWebApi.Controllers.TechnologyController",
+    "Method": "Put",
+    "RelativePath": "api/Technology/{tid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "technology",
+        "Type": "TechnologyLibrary.Models.Technology",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechnologyWebApi.Controllers.TechnologyController",
+    "Method": "Delete",
+    "RelativePath": "api/Technology/{tid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechnologyWebApi.Controllers.TechnologyController",
+    "Method": "Post",
+    "RelativePath": "api/Technology/{token}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "technology",
+        "Type": "TechnologyLibrary.Models.Technology",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechnologyWebApi.Controllers.TechnologyController",
+    "Method": "GetByLevel",
+    "RelativePath": "api/Technology/level/{level}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "level",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

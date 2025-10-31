@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VV018423\\source\\Blazer\\FinalBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B5E6E0-DCF7-4808-BA21-2C11EAF0356E}|FinalBlazorApp\\FinalBlazorApp.csproj|c:\\users\\vv018423\\source\\blazer\\finalblazorapp\\finalblazorapp\\pages\\employees\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37B5E6E0-DCF7-4808-BA21-2C11EAF0356E}|FinalBlazorApp\\FinalBlazorApp.csproj|solutionrelative:finalblazorapp\\pages\\employees\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\VV018423\\source\\Blazer\\FinalBlazorApp\\FinalBlazorApp\\Pages\\Employees\\Index.razor",
+              "RelativeDocumentMoniker": "FinalBlazorApp\\Pages\\Employees\\Index.razor",
+              "ToolTip": "C:\\Users\\VV018423\\source\\Blazer\\FinalBlazorApp\\FinalBlazorApp\\Pages\\Employees\\Index.razor",
+              "RelativeToolTip": "FinalBlazorApp\\Pages\\Employees\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T06:33:42.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

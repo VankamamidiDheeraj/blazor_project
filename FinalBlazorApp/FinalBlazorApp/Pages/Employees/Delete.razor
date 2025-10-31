@@ -1,0 +1,114 @@
+﻿@page "/employees/delete/{eid:int}"
+
+<h3>Delete Employee</h3>
+
+<div class="details-container">
+    <div class="details-card">
+        <div class="detail-row">
+            <label>Emp ID:</label>
+            <span>@employee.EmpId</span>
+        </div>
+        <div class="detail-row">
+            <label>Name:</label>
+            <span>@employee.EmpName</span>
+        </div>
+        <div class="detail-row">
+            <label>Designation:</label>
+            <span>@employee.Designation</span>
+        </div>
+        <div class="detail-row">
+            <label>Email:</label>
+            <span>@employee.Email</span>
+        </div>
+        <div class="detail-row">
+            <label>Phone Number:</label>
+            <span>@employee.Phone</span>
+        </div>
+
+        <div class="button-group">
+            <button @onclick="DeleteEmployee" class="btn-delete">Delete</button>
+            <a href="/employees" class="btn-back">Back to List</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background: linear-gradient(to right, #f8f9fa, #e3f2fd);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h3 {
+        text-align: center;
+        color: #dc3545;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+
+    .details-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .details-card {
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        width: 500px;
+    }
+
+    .detail-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+        font-size: 1rem;
+    }
+
+        .detail-row label {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .detail-row span {
+            color: #555;
+        }
+
+    .button-group {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    .btn-delete {
+        background-color: #dc3545;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 6px;
+        font-weight: bold;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-delete:hover {
+            background-color: #bb2d3b;
+        }
+
+    .btn-back {
+        background-color: #6c757d;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: bold;
+        font-size: 1rem;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-back:hover {
+            background-color: #5a6268;
+        }
+</style>

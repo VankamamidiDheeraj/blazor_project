@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "EmployeeWebApi.Controllers.EmployeeController",
+    "Method": "Get",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeWebApi.Controllers.EmployeeController",
+    "Method": "Get",
+    "RelativePath": "api/Employee/{eid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeWebApi.Controllers.EmployeeController",
+    "Method": "Put",
+    "RelativePath": "api/Employee/{eid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "employee",
+        "Type": "EmployeeLibrary.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeWebApi.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "api/Employee/{eid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeWebApi.Controllers.EmployeeController",
+    "Method": "Post",
+    "RelativePath": "api/Employee/{token}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "employee",
+        "Type": "EmployeeLibrary.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

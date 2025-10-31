@@ -1,0 +1,166 @@
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\appsettings.Development.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\appsettings.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.staticwebassets.endpoints.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.exe
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.deps.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.runtimeconfig.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.pdb
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Azure.Core.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Azure.Identity.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.ClientModel.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserLibrary.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\bin\Debug\net8.0\UserLibrary.pdb
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.csproj.AssemblyReference.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.AssemblyInfoInputs.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.AssemblyInfo.cs
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.csproj.CoreCompileInputs.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\scopedcss\bundle\UserWebApi.styles.css
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.build.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.development.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.csproj.Up2Date
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\refint\UserWebApi.dll
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.pdb
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.genruntimeconfig.cache
+F:\Zelis-DotNet\Blazor\Day 03\DemoBlazorApp\UserWebApi\obj\Debug\net8.0\ref\UserWebApi.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.staticwebassets.endpoints.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.exe
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.deps.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.runtimeconfig.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserWebApi.pdb
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserLibrary.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\bin\Debug\net8.0\UserLibrary.pdb
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.csproj.AssemblyReference.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.AssemblyInfoInputs.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.AssemblyInfo.cs
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.csproj.CoreCompileInputs.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\scopedcss\bundle\UserWebApi.styles.css
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.csproj.Up2Date
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\refint\UserWebApi.dll
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.pdb
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\UserWebApi.genruntimeconfig.cache
+C:\Users\VV018423\source\Blazer\FinalBlazorApp\UserWebApi\obj\Debug\net8.0\ref\UserWebApi.dll

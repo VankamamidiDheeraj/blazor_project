@@ -1,0 +1,115 @@
+﻿@page "/trainings/bytrainer/{trid:int}"
+
+<h3>Get Trainings By Trainer</h3>
+<p class="subtitle">List of Trainings</p>
+
+@if (trainings == null)
+{
+    <p><em>Loading.......</em></p>
+}
+else
+{
+    <div class="table-container">
+        <table class="styled-table">
+            <thead>
+                <tr>
+                    <th>Training ID</th>
+                    <th>Trainer ID</th>
+                    <th>Technology ID</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var training in trainings)
+                {
+                    <tr>
+                        <td>@training.TrainingId</td>
+                        <td>@training.TrainerId</td>
+                        <td>@training.TechnologyId</td>
+                        <td>@training.StartDate.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>@training.EndDate.ToString("yyyy-MM-dd HH:mm")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="button-group">
+        <a href="/trainings" class="btn-back">Back to List</a>
+    </div>
+}
+
+<style>
+    body {
+        background: linear-gradient(to right, #f8f9fa, #e3f2fd);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h3 {
+        text-align: center;
+        color: #0d6efd;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+
+    .subtitle {
+        text-align: center;
+        font-size: 1.1rem;
+        color: #333;
+        margin-bottom: 30px;
+    }
+
+    .table-container {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .styled-table {
+        width: 95%;
+        max-width: 1100px;
+        border-collapse: collapse;
+        background-color: #ffffff;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+        .styled-table th, .styled-table td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #dee2e6;
+            white-space: nowrap;
+            vertical-align: middle;
+        }
+
+        .styled-table thead {
+            background-color: #0d6efd;
+            color: white;
+        }
+
+        .styled-table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+    .button-group {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .btn-back {
+        background-color: #6c757d;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: bold;
+        font-size: 1rem;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-back:hover {
+            background-color: #5a6268;
+        }
+</style>

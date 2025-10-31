@@ -1,0 +1,121 @@
+﻿@page "/trainings/delete/{trainid:int}"
+
+<h3>Delete Training</h3>
+
+@if (training == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="details-container">
+        <div class="details-card">
+            <div class="detail-row">
+                <label>Training ID:</label>
+                <span>@training.TrainingId</span>
+            </div>
+            <div class="detail-row">
+                <label>Trainer ID:</label>
+                <span>@training.TrainerId</span>
+            </div>
+            <div class="detail-row">
+                <label>Technology ID:</label>
+                <span>@training.TechnologyId</span>
+            </div>
+            <div class="detail-row">
+                <label>Start Date:</label>
+                <span>@training.StartDate.ToString("yyyy-MM-dd HH:mm")</span>
+            </div>
+            <div class="detail-row">
+                <label>End Date:</label>
+                <span>@training.EndDate.ToString("yyyy-MM-dd HH:mm")</span>
+            </div>
+
+            <div class="button-group">
+                <button @onclick="DeleteTraining" class="btn-delete">Delete</button>
+                <a href="/trainings" class="btn-back">Back to List</a>
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    body {
+        background: linear-gradient(to right, #f8f9fa, #e3f2fd);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h3 {
+        text-align: center;
+        color: #dc3545;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+
+    .details-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .details-card {
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        width: 500px;
+    }
+
+    .detail-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+        font-size: 1rem;
+    }
+
+        .detail-row label {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .detail-row span {
+            color: #555;
+        }
+
+    .button-group {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    .btn-delete {
+        background-color: #dc3545;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 6px;
+        font-weight: bold;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-delete:hover {
+            background-color: #bb2d3b;
+        }
+
+    .btn-back {
+        background-color: #6c757d;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: bold;
+        font-size: 1rem;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-back:hover {
+            background-color: #5a6268;
+        }
+</style>

@@ -1,0 +1,138 @@
+﻿@page "/trainings"
+
+<AuthorizeView>
+    <Authorized>
+@if (trainings == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+<h3>List of Trainings</h3>
+<a href="/trainings/create" class="btn-create">Create New</a>
+    <div class="table-container">
+        <table class="styled-table">
+            <thead>
+                <tr>
+                    <th>Training ID</th>
+                    <th>Trainer ID</th>
+                    <th>Technology ID</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var train in trainings)
+                {
+                    <tr>
+                        <td>@train.TrainingId</td>
+                        <td>@train.TrainerId</td>
+                        <td>@train.TechnologyId</td>
+                        <td>@train.StartDate.ToShortDateString()</td>
+                        <td>@train.EndDate.ToShortDateString()</td>
+                        <td>
+                            <div class="action-group">
+                                <a href="/trainings/details/@train.TrainingId" class="btn-action">Details</a>
+                                <a href="/trainings/edit/@train.TrainingId" class="btn-action">Edit</a>
+                                <a href="/trainings/delete/@train.TrainingId" class="btn-action">Delete</a>
+                                <a href="/trainings/bytrainer/@train.TrainerId" class="btn-action">ByTrainer</a>
+                                <a href="/trainings/bytechnology/@train.TechnologyId" class="btn-action">ByTechnology</a>
+                                <a href="/traineeindex/@train.TrainingId" class="btn-action">Trainee</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+</Authorized>
+    <NotAuthorized>
+        <p style="text-align:center; color:red; font-weight:bold;">You must be logged in to view data.</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+<style>
+    body {
+        background: linear-gradient(to right, #f8f9fa, #e3f2fd);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h3 {
+        text-align: center;
+        color: #0d6efd;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+
+    .btn-create {
+        display: block;
+        width: fit-content;
+        margin: 10px auto 30px auto;
+        padding: 10px 20px;
+        background-color: #198754;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: bold;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-create:hover {
+            background-color: #157347;
+        }
+
+    .table-container {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .styled-table {
+        width: 95%;
+        max-width: 1100px;
+        border-collapse: collapse;
+        background-color: #ffffff;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+        .styled-table th, .styled-table td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #dee2e6;
+            white-space: nowrap;
+            vertical-align: middle;
+        }
+
+        .styled-table thead {
+            background-color: #0d6efd;
+            color: white;
+        }
+
+        .styled-table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+    .action-group {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 6px;
+    }
+
+    .btn-action {
+        padding: 6px 12px;
+        background-color: #0d6efd;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        font-size: 0.9rem;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-action:hover {
+            background-color: #0b5ed7;
+        }
+</style>
